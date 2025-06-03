@@ -1,1 +1,1 @@
-# chemview
+# chemview-docs
