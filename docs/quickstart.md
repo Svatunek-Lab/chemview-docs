@@ -8,7 +8,7 @@ This is incomplete for now because of the beta stage.
 - Drag a file into the browser.
 - Open using the file menu.
 - Load a structure by using a name or SMILES with the "LUPESYMBOL Molecule" button or by hitting "n" over the molecule view area.
-- Load remote files using `&?file=filename.extension`.
+- Load remote files using `/?file=filename.extension` at the end of the link.
 
 ## Navigate through file
 
