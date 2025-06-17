@@ -19,6 +19,7 @@ jobs:
         with:
           python-version: '3.x'
       - run: pip install mkdocs-material
+      - run: pip install mkdocs-bootswatch
       - run: mkdocs gh-deploy --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
