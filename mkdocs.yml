@@ -1,0 +1,12 @@
+site_name: ChemView Documentation
+site_description: Documentation for ChemView, a web-based chemical structure viewer.
+theme:
+  name: material
+  palette:
+    scheme: slate
+  features:
+    - search
+nav:
+  - Home: index.md
+  - Quick Start: quickstart.md
+  - Features: features.md
