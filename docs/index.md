@@ -2,10 +2,10 @@
 
 **ChemView** is currently in beta. Please note that the documentation is still in progress. We encourage you to explore ChemView and share your feedback!
 
-- 🌐 [Try ChemView](https://chem-view.svatunek-lab.com/){:target="_blank"}
-- 🗳️ [Vote for new features](https://chem-view-voting.svatunek-lab.com/){:target="_blank"}
-- 🐞 [Report bugs or request features](https://github.com/Svatunek-Lab/chemview-docs/issues){:target="_blank"}
-- 💬 [Join the discussion on Reddit](https://www.reddit.com/r/ChemView/){:target="_blank"}
+- <a href="https://chem-view.svatunek-lab.com/" target="_blank" rel="noopener">Try ChemView</a>
+- <a href="https://chem-view-voting.svatunek-lab.com/" target="_blank" rel="noopener">Vote for new features</a>
+- <a href="https://github.com/Svatunek-Lab/chemview-docs/issues" target="_blank" rel="noopener">Report bugs or request features</a>
+- <a href="https://www.reddit.com/r/ChemView/" target="_blank" rel="noopener">Join the discussion on Reddit</a>
 
 ---
 
