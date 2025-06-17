@@ -11,7 +11,12 @@
 
 ## Main Features
 
-- Support for ORCA 6 output files: optimization, frequency, scan, single-point, and compound scripts
+- Support for ORCA 6 output files:
+    - Optimization
+    - Frequency
+    - Scan
+    - Single-point
+    - Compound scripts
 - XYZ file handling
 - All processing is done locally in your browser
 
