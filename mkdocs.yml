@@ -1,8 +1,7 @@
 site_name: ChemView Documentation
 site_description: Documentation for ChemView, a web-based chemical structure viewer.
 theme:
-  name: bootswatch
-  bootswatch_theme: darkly 
+  name: darkly
 nav:
   - Home: index.md
   - Quick Start: quickstart.md
